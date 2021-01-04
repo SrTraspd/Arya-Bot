@@ -1,6 +1,6 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
-NFQ BOT 🤖
+{ ⛧ＨＡＳＨ ＴＥＡＭ⛧ }
 Rec: ~SrTrap
 
 ➸ Prefix:  *「 ${_p} 」*
@@ -28,29 +28,21 @@ Rec: ~SrTrap
 
 
 *╔═〘 GRUPO 〙═╗*
-🌹${_p}add (62xxxxxxxxxx)
-🌹${_p}kick @mention
-🌹${_p}promote @mention
-🌹${_p}demote @mention
-🌹${_p}linkgrup
-🌹${_p}pengumuman <texto>
-🌹${_p}hidetag <texto>
-🌹${_p}listonline [groupid]
-🌹${_p}grouplist
-
-*「 EXPERIMENTAL 」*
-🌹*${_p}jadibot*
-[kode login jika ada / kosongin]
-Jangan Lupa Scan QR
-
-*「 Advanced 」*
-> return m 'javascript eval' + m.sender
+⌇${_p}add (62xxxxxxxxxx)
+⌇${_p}kick @mention
+⌇${_p}promote @mention
+⌇${_p}demote @mention
+⌇${_p}linkgrup
+⌇${_p}pengumuman <texto>
+⌇${_p}hidetag <texto>
+⌇${_p}listonline [groupid]
+⌇${_p}grouplist
 
 =======*「 INFO 」*=======
 Feito por @SrTrap { ⛧ＨＡＳＨ ＴＥＡＭ⛧ } <=- Domina pai
 
 
-OwNer:
+Criador:
 *Wa.me/+5514991983652*
 ==================
 `.trim(), m)
